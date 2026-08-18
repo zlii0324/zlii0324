@@ -26,7 +26,7 @@ I'm a **Master of Data Science student at Monash University** with a strong inte
 ## 🧰 Tech Stack
 
 ### Languages
-`Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+`Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS` `C` `C++` `Java` `Kotlin` `R`
 
 ### Frontend
 `React` `Angular` `Vite` `Ant Design`
@@ -35,7 +35,7 @@ I'm a **Master of Data Science student at Monash University** with a strong inte
 `Flask` `Node.js` `REST API` `JWT` `Flask API`
 
 ### Data
-`Pandas` `NumPy` `Apache Spark` `MySQL` `SQLite` `MongoDB`
+`Pandas` `NumPy` `Apache Spark` `MySQL` `SQLite` `MongoDB` `Tableau`
 
 ### DevOps & Tools
 `Docker` `Linux` `Nginx` `Git` `GitHub` `Azure`
